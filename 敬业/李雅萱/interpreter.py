@@ -6,25 +6,23 @@ def test():
 
     c = """
 
-    [set a [+ 1 5]]
+    [set a [+ 1 51]]
 
     [log a]
 
 
 
-    [function [plus a b] [+ a b]]
+     
 
 
 
-    [set b [plus 0 6]]
+    [set b [plus 1 6]]
 
     [log b]
 
 
 
-    [function [compare x] [if [< x 1] [log "小于1"] [log "大于或等于1"]]]
-
-    [compare 0]
+     
     
         """
 
