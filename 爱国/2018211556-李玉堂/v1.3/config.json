@@ -1,7 +1,0 @@
-{
-    "server":"98.142.132.182",
-    "server_port":8086,
-    "local_port":1030,
-    "password":"pwd",
-    "timeout":600
-}
